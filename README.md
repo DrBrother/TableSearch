@@ -1,22 +1,30 @@
-# Вторая Лабараторная работа по курсу ППвИС
+# Table Search
+Desktop application for searching data from a table with parameters.
+Table: Full name | Faculty | Department name | Academic title | Work experience | Academic degree
 
-# Тема:"ПОСТРОЕНИЕ ГРАФИЧЕСКОГО ПОЛЬЗОВАТЕЛЬСКОГО ИНТЕРФЕЙСА НА ОСНОВЕ ДИАЛОГОВ"
+Search and delete conditions:
+- by the name of the teacher or the name of the department (maybe only one element of the full name should be filled in, for example, the name);
+- by academic title and faculty;
+- by work experience (upper and lower limit is set).
 
+Note: List of department names, list of faculties, list academic degrees and titles in the search dialogue, collected by the system and is displayed in the drop-down list.
+## Getting Started
 
-Шадрин Е.Д. 821701
-Вариант 12
+To download the project:
+```
+git clone https://github.com/DrBrother/TableSearch
+```
 
-Таблица: ФИО| Факультет | Название кафедры | Ученое звание | Стаж работы | Ученая степень
+## Built With
 
-Условия поиска и удаления:
-- по фамилии преподавателя или наименованию кафедры (может
-быть заполнен только один элемент ФИО, например имя);
-- по ученому званию и факультету;
-- по стажу работы (задается верхний и нижний предел).
+* [Java](https://www.java.com/) 
+* [SWT](https://en.wikipedia.org/wiki/Standard_Widget_Toolkit)
 
-Замечание: Список названий кафедр, список факультетов, список
-ученых степеней и званий в диалоге поиска, собирается системой и
-выводится в выпадающий список.
+## Authors
+
+* **Zhenya Shadrin** - 
+[LinkedIn](https://www.linkedin.com/in/ev-shadrin/) | 
+[GitHub](https://github.com/DrBrother)
 
 
 
