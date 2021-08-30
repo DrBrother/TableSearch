@@ -1,5 +1,6 @@
 # Table Search
 Desktop application for searching data from a table with parameters.
+
 Table: Full name | Faculty | Department name | Academic title | Work experience | Academic degree
 
 Search and delete conditions:
